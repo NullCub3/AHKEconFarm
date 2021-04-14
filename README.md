@@ -2,7 +2,7 @@
  
 Hello fellow Comrads and Capitalists, I am here to present to you an updated version of a exciting opportunity. A fully automated script that will work the economy bot while you are away from your computer. The process is simple, provided you have a Windows PC.
 
-As for the script itself, every time it goes through the work cycle, it will cost 40 units of our currency, a flat fee. This can work to your benefit, as if you earn larger amounts you don't have to pay as much as compared to if it was going by a percent system.
+As for the script itself, every time it goes through the work cycle, it will cost 42 units of our currency, a flat fee. This can work to your benefit, as if you earn larger amounts you don't have to pay as much as compared to if it was going by a percent system.
 
 
 ## Instructions:
