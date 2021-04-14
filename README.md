@@ -1,4 +1,4 @@
-# AHKEconFarm
+# AHK Econ Farm
  
 Hello fellow Comrads and Capitalists, I am here to present to you an updated version of a exciting opportunity. A fully automated script that will work the economy bot while you are away from your computer. The process is simple, provided you have a Windows PC.
 
