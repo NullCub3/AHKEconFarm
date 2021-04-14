@@ -11,7 +11,7 @@ There are two methods for running AHKEconFarm. The first is the easiest, but you
 The second method is by downloading AutoHotKey and running the source code through that. This is the safer option as you can look at the code and know that there isn't anything fishy.
 
 ### EXE Method:
- 1. Download the EXE on the latest release
+ 1. Download the EXE on the [latest release](https://github.com/NullCub3/AHKEconFarm/releases/latest)
  2. Locate the download
  3. Run the "AHKEconFarm_v1.x.exe" file
  4. Click "OK" on the pop up informing you that the program is now running
@@ -22,7 +22,7 @@ The second method is by downloading AutoHotKey and running the source code throu
 
 ### Source Code Method:
  1. Download and Install [AutoHotKey](https://www.autohotkey.com/)
- 2. Download the source code of the latest release
+ 2. Download the source code of the [latest release](https://github.com/NullCub3/AHKEconFarm/releases/latest)
  3. Locate and unzip the download
  4. Run the "AHKEconFarm.ahk" file
  5. Click "OK" on the pop up informing you that the program is now running
