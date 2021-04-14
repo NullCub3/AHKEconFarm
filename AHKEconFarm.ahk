@@ -5,8 +5,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::
 wait := 2000
-; delay := 600000
-delay := 1000
+delay := 600000
+
 
 Msgbox, Started! Delay: %delay%ms. AutoDep is off by Default.
 
