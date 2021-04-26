@@ -6,7 +6,7 @@ As for the script itself, every time it goes through the work cycle, it will cos
 
 ## Version 1.1
 
-While before, EconFarm was great for AFKing overnight, but unless you had a separate device to run it on, it wasn't really usuable during the day. That's what version 1.1 hopes to improve. When the script is running, every ten minutes it will switch to Discord and type in the economy commands. And once it's done, it will minimize Discord and you will be right back where you left off! **NOTE: If you run it with administrator, the script will be able to temporarily stop you from interacting with your computer while it's entering the commands, so you won't accidentally mess it up. This is not required for the script to work, but it is more reliable when done this way.**
+Before, EconFarm was great for AFKing overnight, but unless you had a separate device to run it on, it wasn't really usuable during the day. That's what version 1.1 hopes to improve. When the script is running, every ten minutes it will switch to Discord and type in the economy commands. And once it's done, it will minimize Discord and you will be right back where you left off! **NOTE: If you run it with administrator, the script will be able to temporarily stop you from interacting with your computer while it's entering the commands, so you won't accidentally mess it up. This is not required for the script to work, but it is more reliable when done this way.**
 
 ## Instructions:
 There are two methods for running AHKEconFarm. The first is the easiest, but you do have to run a exe file that I made. So depending on how much you trust me, this may or may not be an option for you. Don't ever run exe files from people you don't trust.
