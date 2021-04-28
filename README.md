@@ -17,7 +17,7 @@ The second method is by downloading AutoHotKey and running the source code throu
  1. Download the EXE on the [latest release](https://github.com/NullCub3/AHKEconFarm/releases/latest)
  2. Locate the download
  3. Give Discord a separate **window** (not tab) and open it up to the economy channel (I recommend using a separate browser window)
- 4. Run the "AHKEconFarm_v1.x.exe" file
+ 4. Run the "AHKEconFarm_v2.x.exe" file
  5. A pop-up will appear with keybind information, click OK to start the script
  6. Wait 10 minutes and the script will switch to Discord and do its thing!
  7. ???
@@ -29,7 +29,7 @@ The second method is by downloading AutoHotKey and running the source code throu
  2. Download the source code of the [latest release](https://github.com/NullCub3/AHKEconFarm/releases/latest)
  3. Locate and unzip the download
  4. Give Discord a separate **window** (not tab) and open it up to the economy channel (I recommend using a separate browser window)
- 5. Run the "AHKEconFarm_v2.x.exe" file
+ 5. Run the "AHKEconFarm.ahk" file
  6. A pop-up will appear with keybind information, click OK to start the script
  7. Wait 10 minutes and the script will switch to Discord and do its thing!
  8. ???
